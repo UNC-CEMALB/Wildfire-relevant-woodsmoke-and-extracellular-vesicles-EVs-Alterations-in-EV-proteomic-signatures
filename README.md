@@ -1,6 +1,6 @@
-# Wildfires and Extracellular Vesicles (EVs): Woodsmoke Alters EV Proteomic Signatures involved in Extracellular Matrix Degradation and Tissue Injury in Airway Organotypic Models 
+# Wildfire-relevant woodsmoke and extracellular vesicles (EVs): Alterations in EV proteomic signatures involved in extracellular matrix degradation and tissue injury in airway organotypic models
 
-This script was generated to support the manuscript titled 'Wildfires and Extracellular Vesicles (EVs): Woodsmoke Alters EV Proteomic Signatures involved in Extracellular Matrix Degradation and Tissue Injury in Airway Organotypic Models', published in 2025 in Environmental Research (PMID: 39571711). doi: https://doi.org/10.1016/j.envres.2024.120395 
+This code was generated to support the manuscript titled 'Wildfire-relevant woodsmoke and extracellular vesicles (EVs): Alterations in EV proteomic signatures involved in extracellular matrix degradation and tissue injury in airway organotypic models', published in 2025 in Environmental Research (PMID: 39571711). doi: https://doi.org/10.1016/j.envres.2024.120395 
 
 <p align="center">
 <img src = 'https://github.com/user-attachments/assets/9d5e4050-dbce-4fd6-afef-a067f8456be2' width = '600'>
