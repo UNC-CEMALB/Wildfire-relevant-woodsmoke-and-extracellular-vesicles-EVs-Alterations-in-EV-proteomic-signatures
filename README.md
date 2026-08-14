@@ -1,6 +1,8 @@
 # Wildfire-relevant woodsmoke and extracellular vesicles (EVs): Alterations in EV proteomic signatures involved in extracellular matrix degradation and tissue injury in airway organotypic models
 
-This code was generated to support the manuscript titled 'Wildfire-relevant woodsmoke and extracellular vesicles (EVs): Alterations in EV proteomic signatures involved in extracellular matrix degradation and tissue injury in airway organotypic models', published in 2025 in Environmental Research (PMID: 39571711). doi: https://doi.org/10.1016/j.envres.2024.120395 
+This code was generated to support the manuscript titled 'Wildfire-relevant woodsmoke and extracellular vesicles (EVs): Alterations in EV proteomic signatures involved in extracellular matrix degradation and tissue injury in airway organotypic models', published in 2025 in Environmental Research (PMID: 39571711).
+
+> Vitucci ECM, Carberry CK, Payton A, Herring LE, Mordant AL, Kim YH, Gilmour MI, McCullough SD, Rager JE. Wildfire-relevant woodsmoke and extracellular vesicles (EVs): Alterations in EV proteomic signatures involved in extracellular matrix degradation and tissue injury in airway organotypic models. Environ Res. 2025 Jan 1;264(Pt 2):120395. doi: 10.1016/j.envres.2024.120395. Epub 2024 Nov 19. PMID: 39571711. doi: https://doi.org/10.1016/j.envres.2024.120395 
 
 <p align="center">
 <img src = 'https://github.com/user-attachments/assets/9d5e4050-dbce-4fd6-afef-a067f8456be2' width = '600'>
@@ -8,11 +10,9 @@ This code was generated to support the manuscript titled 'Wildfire-relevant wood
 
 <br>
 
-> As wildfires become more common, this study sought to investigate how extracellular vesicles (EVs) are impacted by in vitro smoke exposure from various biomasses.
+As wildfires become more common, this study sought to investigate how extracellular vesicles (EVs) are impacted by in vitro smoke exposure from various biomasses. 
 
-> All analyses in this folder are designated by their figure number or table number in the manuscript in parantheses.
-
-In the instance that the files are unable to rendered, click [here](https://nbviewer.org/github/UNC-CEMALB/Wildfires-and-Extracellular-Vesicles-EVs-Woodsmoke-Alters-EV-Proteomic-Signatures-involved-in-Ext/tree/main/) to view the code. 
+All analyses in this folder are designated by their figure number or table number in the manuscript in parentheses. In the instance that the files are unable to rendered, click [here](https://nbviewer.org/github/UNC-CEMALB/Wildfires-and-Extracellular-Vesicles-EVs-Woodsmoke-Alters-EV-Proteomic-Signatures-involved-in-Ext/tree/main/) to view the code. 
 
 # 1. Data Extraction
 - Extracting particle concentrations to compare between treatment groups (co-culture and tri-culture) in a visualization later on
